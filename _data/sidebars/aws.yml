@@ -56,9 +56,45 @@ entries:
       output: web
       type: homepage
 
+  - title: AWS VPC
+    output: web
+    folderitems:
 
+    - title: VPC Genel Bakış
+      url: vpc-genel-bakis
+      output: web
+      type: homepage
+    - title: Ev Ağı Benzetimesi
+      url: ev-agi-benzetmesi
+      output: web
+      type: homepage
+    - title: VPC Alıştırması
+      url: vpc-alistirmasi
+      output: web
+      type: homepage
+  
+  - title: AWS S3
+    output: web
+    folderitems:
 
-
-
-
+    - title: S3 Genel Bakış
+      url: s3-genel-bakis
+      output: web
+      type: homepage
+    - title: S3 Depolama Sınıfları
+      url: s3-depolama-siniflari
+      output: web
+      type: homepage
+    - title: S3 Alıştırması
+      url: s3-alistirmasi
+      output: web
+      type: homepage
+    - title: S3 Fiyatlar
+      url: s3-fiyatlar
+      output: web
+      type: homepage
+    - title: S3 Yaşam Dögüsü
+      url: s3-yasam-dongusu
+      output: web
+      type: homepage
      
