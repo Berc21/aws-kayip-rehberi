@@ -1,0 +1,64 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: İçindekiler
+  version: 
+  folders:
+
+  - title: Genel Bakış
+    output: web
+    folderitems:
+
+    - title: Bulut Bilişim Nedir
+      url: 
+      output: web
+      type: homepage
+  
+  - title: AWS IAM
+    output: web
+    folderitems:
+
+    - title: IAM Genel Bakış
+      url: aws-iam
+      output: web
+      type: homepage
+    - title: Amazon Güvenlik Durumlar Görevi 
+      url: iam-guvenlik-durumlari
+      output: web
+      type: homepage
+    - title: Root Erişim Anahtarını Silmek
+      url: root-erisim-hesabini-silmek
+      output: web
+      type: homepage
+    - title: MFA'yı root hesabında etkinleştirme
+      url: mfa-root-hesabinda-etkinlestirme
+      output: web
+      type: homepage
+    - title: Kişisel IAM Kullanıcısı oluşturmak
+      url: kisisel-iam-kullanicisi-olusturmak
+      output: web
+      type: homepage
+    - title: Grupları Kullanarak Yetki Atama
+      url: gruplari-kullanarak-yetki-atama
+      output: web
+      type: homepage
+    - title: IAM Poliçesi Oluşturma
+      url: iam-policesi-olusturma
+      output: web
+      type: homepage
+    - title: IAM Roller
+      url: iam-roller
+      output: web
+      type: homepage
+    - title: IAM Policeleri
+      url: iam-policeleri
+      output: web
+      type: homepage
+
+
+
+
+
+
+     
