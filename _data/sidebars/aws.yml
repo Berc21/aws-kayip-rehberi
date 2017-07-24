@@ -15,7 +15,7 @@ entries:
       output: web
       type: homepage
   
-  - title: AWS IAM
+  - title: Amazon IAM
     output: web
     folderitems:
 
@@ -56,7 +56,7 @@ entries:
       output: web
       type: homepage
 
-  - title: AWS VPC
+  - title: Amazon VPC
     output: web
     folderitems:
 
@@ -73,7 +73,7 @@ entries:
       output: web
       type: homepage
   
-  - title: AWS S3
+  - title: Amazon S3
     output: web
     folderitems:
 
@@ -97,4 +97,128 @@ entries:
       url: s3-yasam-dongusu
       output: web
       type: homepage
-     
+  
+  - title: Amazon EC2
+    output: web
+    folderitems:
+
+    - title: EC2 Genel Bakış
+      url: ec2-genel-bakis
+      output: web
+      type: homepage
+    - title: EC2 Temel Kavramlar
+      url: ec2-temel-kavramlar
+      output: web
+      type: homepage
+    - title: Amazon Machine Images (AMI)
+      url: amazon-machine-images
+      output: web
+      type: homepage
+    - title: Amazon EBS
+      url: amazon-ebs
+      output: web
+      type: homepage
+    - title: Amazon Güvenlik Duvarı
+      url: amazon-guvenlik-duvari
+      output: web
+      type: homepage
+    - title: Amazon IP Adresleme
+      url: amazon-ip-adresleme
+      output: web
+      type: homepage
+    - title: Amazon Örnek Çeşitleri
+      url: amazon-ornek-cesitleri
+      output: web
+      type: homepage
+    - title: Amazon EC2 Fiyatlandırma
+      url: amazon-ec2-fiyatlandirma
+      output: web
+      type: homepage
+    - title: EC2 Linux Örneği Oluşturma
+      url: amazon-ec2-ornegi-olusturma
+      output: web
+      type: homepage
+  
+  - title: Amazon Bulut Veritabanı
+    output: web
+    folderitems:
+
+    - title: Bulut Veritabanı Genel Bakış
+      url: bulut-veritabani-genel-bakis
+      output: web
+      type: homepage
+    - title: Amazon RDS Veritabanı Oluşturma
+      url: rds-olusturma-alistirmasi
+      output: web
+      type: homepage
+  - title: Amazon ElastiCache
+    output: web
+    folderitems:
+
+    - title: Amazon ElastiCache Genel Bakış
+      url: elasticache-genel-bakis
+      output: web
+      type: homepage
+  
+  - title: Amazon SES
+    output: web
+    folderitems:
+    
+    - title: Amazon SES Genel Bakış
+      url: amazon-ses-genel-bakis
+      output: web
+      type: homepage
+  
+  - title: Amazon SNS
+    output: web
+    folderitems:
+    - title: Amazon SNS Genel Bakış
+      url: amazon-sns-genel-bakis
+      output: web
+      type: homepage
+
+  - title: Amazon ELB
+    output: web
+    folderitems:
+
+    - title: Amazon ELB Genel Bakış
+      url: amazon-elb-genel-bakis
+      output: web
+      type: homepage
+
+  - title:  Amazon Auto Scaling 
+    output: web
+    folderitems:
+
+    - title:  Amazon Auto Scaling Genel Bakış
+      url: amazon-auto-scaling-genel-bakis
+      output: web
+      type: homepage
+  - title:  Amazon CloudWatch
+    output: web
+    folderitems:
+
+    - title: Amazon CloudWatch Genel Bakış
+      url: amazon-cloudwatch-genel-bakis
+      output: web
+      type: homepage
+  
+  - title:  Amazon Route53
+    output: web
+    folderitems:
+
+    - title: Amazon Route53 Genel Bakış
+      url: amazon-route53-genel-bakis
+      output: web
+      type: homepage
+    - title: Amazon Route53 Yönlendirme İlkeleri
+      url: amazon-route53-yonlendirme-ilkeleri
+      output: web
+      type: homepage
+
+
+
+
+
+
+    
