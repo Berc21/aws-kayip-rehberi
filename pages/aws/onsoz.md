@@ -8,4 +8,4 @@ permalink: aws-kayip-rehberi-hakkinda
 folder: aws
 ---
 
-Hazırlık Aşamasında
+Hazırlık Aşamasında..
